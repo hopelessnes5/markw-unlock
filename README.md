@@ -1,5 +1,7 @@
 # Redmi 4 Prime (markw): разблокировка, LineageOS 18.1, Magisk, TWRP
 
+**English version:** [README.en.md](README.en.md) · [GUIDE.en.md](GUIDE.en.md) · [docs/en/](docs/en/) · [wiki-en/](wiki-en/) · [prompts/AGENT_PROMPT.en.md](prompts/AGENT_PROMPT.en.md)
+
 Репозиторий фиксирует **реально пройденный** путь установки LineageOS 18.1 + Magisk + TWRP 3.7 на Xiaomi Redmi 4 Prime (`markw`) без официального Mi Unlock, без разборки/тестпоинта и без патча `devinfo` (без бэкапов критичных разделов такой патч опасен).
 
 > ⚠️ Все операции с загрузчиком/разделами — на ваш риск. Неправильная прошивка `aboot`, блокировка загрузчика на несовместимом состоянии или потеря EFS/модема могут привести к «кирпичу». Делайте бэкапы и сверяйте контрольные суммы.
