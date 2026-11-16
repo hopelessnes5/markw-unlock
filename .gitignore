@@ -1,0 +1,18 @@
+# Бинарные образы и архивы прошивок/рекавери (скачиваются отдельно)
+*.zip
+*.img
+*.apk
+*.tgz
+*.bin
+*.mbn
+
+# Локальные бэкапы и временные файлы
+bak/
+backups/
+*.orig
+*.log
+*.tmp
+
+# Windows
+Thumbs.db
+Desktop.ini
